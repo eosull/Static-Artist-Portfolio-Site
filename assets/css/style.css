@@ -41,6 +41,13 @@ footer{
     background-color: black;
     height: 40px;
 }
+.footer-bar h3{
+    display: inline;
+}
+
+#copyright{
+    float:left;
+}
 
 #insta-logo{
     color: white;
