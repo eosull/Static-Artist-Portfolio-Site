@@ -53,6 +53,12 @@ footer{
     color: white;
 }
 
+/* home content styling */
+
+#home-content{
+    display:inline-block;
+}
+
 /* bio styling */
 #bio{
     width: 33%;
@@ -61,4 +67,12 @@ footer{
     margin-left: 15px;
     padding: 20px;
     background-color: grey;
+}
+
+/* home image styling */
+
+#home-image{
+    float: right;
+    width: 100%;
+    height: auto;
 }
