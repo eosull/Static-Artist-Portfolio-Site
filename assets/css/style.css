@@ -5,15 +5,25 @@ header{
 
 .header-bar {
     background-color: black;
-    height: 150px;
+    height: 80px;
 }
 
 #title{
-    position:relative;
-    top: 60px;
+    float: left;
 }
 
 #nav-menu{
-    position:relative;
-    left: 90%;
+    float: right;
+    list-style-type: none;
+    margin-right: 20px;
 }
+
+#nav-menu li{
+    display: inline;
+}
+
+#nav-menu a{
+    color: inherit;
+    font-size: 30px;
+}
+
