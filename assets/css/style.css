@@ -52,3 +52,13 @@ footer{
 #insta-logo{
     color: white;
 }
+
+/* bio styling */
+#bio{
+    width: 33%;
+    height: 300px;
+    margin-top: 200px;
+    margin-left: 15px;
+    padding: 20px;
+    background-color: grey;
+}
