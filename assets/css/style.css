@@ -27,3 +27,21 @@ header{
     font-size: 30px;
 }
 
+/* Footer styling */
+
+footer{
+    color: white;
+    text-align: center;
+}
+
+.footer-bar{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    height: 40px;
+}
+
+#insta-logo{
+    color: white;
+}
