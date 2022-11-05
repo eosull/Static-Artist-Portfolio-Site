@@ -5,4 +5,15 @@ header{
 
 .header-bar {
     background-color: black;
+    height: 150px;
+}
+
+#title{
+    position:relative;
+    top: 60px;
+}
+
+#nav-menu{
+    position:relative;
+    left: 90%;
 }
