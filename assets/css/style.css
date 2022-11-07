@@ -53,14 +53,9 @@ footer{
     color: white;
 }
 
-/* home content styling */
-
-#home-content{
-    display:inline-block;
-}
-
 /* bio styling */
 #bio{
+    display:inline-block;
     width: 33%;
     height: 300px;
     margin-top: 200px;
@@ -72,7 +67,16 @@ footer{
 /* home image styling */
 
 #home-image{
+    display: inline-block;
     float: right;
-    width: 100%;
+    width: 50%;
+    margin-top: 50px;
+    margin-right: 75px;
     height: auto;
+    /* background-color: blue; */
+}
+
+#home-image img{
+    width: 50%;
+    height: 50%;
 }
