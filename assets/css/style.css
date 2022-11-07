@@ -125,3 +125,18 @@ footer{
     float:right;
     margin-right: 50px;
 }
+
+#email-address{
+    float: left;
+    margin-left: 50px;
+}
+
+#subject-line{
+    float: right;
+    margin-right: 50px;
+}
+
+#message{
+    width: 75%;
+    margin: 100px auto;
+}
