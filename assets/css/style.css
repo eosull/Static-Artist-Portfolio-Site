@@ -106,3 +106,22 @@ footer{
 #contact-message p{
     text-align:center;
 }
+
+#contact-details{
+    background-color: green;
+    width: 600px;
+    height: 350px;
+    position: relative;
+    top: 80px;
+    margin:auto;
+}
+
+#fname{
+    float:left;
+    margin-left: 50px;
+}
+
+#lname{
+    float:right;
+    margin-right: 50px;
+}
