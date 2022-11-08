@@ -53,38 +53,34 @@ footer{
     color: white;
 }
 
-/* bio styling */
-#bio{
-    display:inline-block;
-    width: 33%;
-    height: 300px;
-    margin-top: 200px;
-    margin-left: 15px;
-    padding: 20px;
-    background-color: grey;
+#home-content{
+    background-color: brown;
+    height:100vh;
+    width: auto;
 }
 
-/* home image styling */
+
 
 #home-image{
     display: inline-block;
     float: right;
-    width: 50%;
-    margin-top: 50px;
-    margin-right: 75px;
-    height: auto;
-    /* background-color: blue; */
+    width: 75%;
+    height: 100%;
+    background-color: blue;
 }
 
 #home-image img{
-    width: 50%;
-    height: 50%;
+    height: 100%;
+    width: 100%;
 }
 
-/* contact form styling */
-
-#contact-form{
-    
+/* bio styling */
+.bio{
+    width: 50%;
+    height: auto;
+    background: blue;
+    margin-top: -750px;
+    margin-left: -100px;
 }
 
 #form-container{
