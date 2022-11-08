@@ -150,3 +150,15 @@ footer{
     width: 60px;
     left: 270px;
 }
+
+/* gallery image styling */
+
+.vertical{
+    width: 384px;
+    height: 571px;
+}
+
+.horizontal{
+    width: 571px;
+    height: 384px;
+}
