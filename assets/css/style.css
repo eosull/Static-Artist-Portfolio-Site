@@ -163,6 +163,22 @@ footer{
     height: 384px;
 }
 
-#collection img{
-    
+.collection h3{
+    color: white;
+}
+
+#waiting{
+    background-color: black;
+}
+
+#washed{
+    background-color: black;
+}
+
+#recording{
+    background-color: black;
+}
+
+#installing{
+    background-color: black;
 }
