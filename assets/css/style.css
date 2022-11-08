@@ -163,22 +163,15 @@ footer{
     height: 384px;
 }
 
-.collection h3{
-    color: white;
+#collection{
+    clear: both;
+    line-height: 0;
+    column-count: 3;
+    column-gap: 0;
 }
 
-#waiting{
-    background-color: black;
+#collection > img {
+    width: 100%;
 }
 
-#washed{
-    background-color: black;
-}
 
-#recording{
-    background-color: black;
-}
-
-#installing{
-    background-color: black;
-}
