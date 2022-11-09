@@ -84,11 +84,11 @@ footer{
     width: 700px;
     height: 500px;
     margin: 200px auto;
-    background-color: darkgrey;
+    background-color: black;
 }
 
 #contact-message{
-    background-color: white;
+    color: white;
     width: 350px;
     height: 50px;
     position: relative;
@@ -101,7 +101,7 @@ footer{
 }
 
 #contact-details{
-    background-color: green;
+    background-color: navy;
     width: 600px;
     height: 350px;
     position: relative;
