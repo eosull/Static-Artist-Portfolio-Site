@@ -161,9 +161,6 @@ footer{
     display:inline-block;
     padding: 0px;
     margin: 0px;
-    /* line-height: 0;
-    column-count: 2;
-    column-gap: 0; */
 }
 
 .collection .col1{
@@ -171,6 +168,7 @@ footer{
     width: 50%;
     height: auto;
 }
+
 .collection .col2{
     float: right;
     width: 50%;
