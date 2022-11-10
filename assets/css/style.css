@@ -80,10 +80,14 @@ footer{
     padding-right: 20px;
 }
 
+/* contact form styling */
+
 #form-container{
-    width: 700px;
-    height: 500px;
-    margin: 200px auto;
+    position: relative;
+    width: 33.3%;
+    height: auto;
+    left: 33.3%;
+    padding: 20px;
     background-color: black;
 }
 
@@ -92,6 +96,10 @@ input[type=text], select, textarea{
     margin-top: 10px;
     margin-bottom: 18px;
     resize: vertical;
+}
+
+textarea{
+    height:200px;
 }
 
 /* gallery image styling */
