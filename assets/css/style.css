@@ -158,12 +158,21 @@ footer{
 
 .collection{
     clear: both;
-    line-height: 0;
+    display:inline-block;
+    padding: 0px;
+    margin: 0px;
+    /* line-height: 0;
     column-count: 2;
-    column-gap: 0;
+    column-gap: 0; */
 }
 
-.collection > img {
-    width: 100%;
+.collection .col1{
+    float: left;
+    width: 50%;
+    height: auto;
+}
+.collection .col2{
+    float: right;
+    width: 50%;
     height: auto;
 }
