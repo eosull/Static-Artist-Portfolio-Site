@@ -10,6 +10,8 @@ header{
 
 #title{
     float: left;
+    color: inherit;
+    text-decoration: none;
 }
 
 #nav-menu{
@@ -20,11 +22,13 @@ header{
 
 #nav-menu li{
     display: inline;
+    padding: 5px;
 }
 
 #nav-menu a{
     color: inherit;
     font-size: 30px;
+    text-decoration: none;
 }
 
 /* Footer styling */
