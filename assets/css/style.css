@@ -138,6 +138,11 @@ textarea{
     padding: 0px;
     margin: 0px;
 }
+section h3{
+    color: white;
+    background-color: rgba(0, 0, 0, 0.493);
+    width: 20%;
+}
 
 .collection .col1{
     float: left;
@@ -150,3 +155,5 @@ textarea{
     width: 50%;
     height: auto;
 }
+
+
