@@ -104,8 +104,8 @@ footer{
     position: relative;
     max-width: 700px;
     margin: auto;
-    padding: 50px;
-    background-color: black;
+        padding: 50px;
+    background-color: rgba(0, 0, 0, 0.493);
 }
 
 input[type=text],input[type=email], select, textarea{
@@ -117,7 +117,7 @@ input[type=text],input[type=email], select, textarea{
 }
 
 textarea{
-    height:200px;
+    max-height:400px;
 }
 
 /* gallery image styling */
