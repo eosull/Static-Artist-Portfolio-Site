@@ -144,15 +144,23 @@ section h3{
     width: 20%;
 }
 
+.collection img{
+    padding: 10px;
+    margin: 2px;
+    background-color: white;
+}
+
 .collection .col1{
     float: left;
-    width: 50%;
+    margin-left: 10%;
+    width: 33%;
     height: auto;
 }
 
 .collection .col2{
     float: right;
-    width: 50%;
+    margin-right: 10%;
+    width: 33%;
     height: auto;
 }
 
