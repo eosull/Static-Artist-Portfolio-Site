@@ -67,7 +67,6 @@ footer{
     color: white;
 }
 
-
 #home-content{
     position: relative;
     text-align: center;
@@ -147,19 +146,19 @@ section h3{
 .collection img{
     padding: 10px;
     margin: 2px;
-    background-color: white;
+    background-color: rgba(255, 255, 255, 0.891);
 }
 
 .collection .col1{
     float: left;
-    margin-left: 10%;
+    margin-left: 13%;
     width: 33%;
     height: auto;
 }
 
 .collection .col2{
     float: right;
-    margin-right: 10%;
+    margin-right: 13%;
     width: 33%;
     height: auto;
 }
