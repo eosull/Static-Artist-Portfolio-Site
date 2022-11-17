@@ -14,3 +14,4 @@ This website is designed to provide information on an artist, examples of work a
     - An image on the landing page aims to give the visitor an impression of the kind of work they will see in the site.
     - The biography provides information on the artist including where they are based, their field of work, education and internal/external links to examples of work.
     - The bigraphy also points the visitor in the direction of the purpose of the site - visiting the gallery and using the contact form if so inclined.
+<!-- Insert screenshot of Landing Page in here -->
