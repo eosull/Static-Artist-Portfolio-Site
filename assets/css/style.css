@@ -45,7 +45,6 @@ header{
 
 footer{
     color: white;
-    text-align: center;
 }
 
 .footer-bar{
@@ -56,15 +55,17 @@ footer{
     height: 40px;
 }
 .footer-bar h3{
-    display: inline;
+    display: inline-block;
 }
 
 #copyright{
     float:left;
 }
 
-#insta-logo{
-    color: white;
+#insta-logo a{
+    margin-left: 20px;
+    text-decoration: none;
+    color: inherit;
 }
 
 #home-content{
@@ -103,8 +104,13 @@ footer{
     position: relative;
     max-width: 700px;
     margin: auto;
-        padding: 50px;
+    padding: 50px;
     background-color: rgba(0, 0, 0, 0.493);
+}
+
+#form-container #contact-desc{
+    color: white;
+    text-align: center;
 }
 
 input[type=text],input[type=email], select, textarea{
