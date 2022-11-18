@@ -92,6 +92,7 @@ footer{
     color: white;
     padding-left: 20px;
     padding-right: 20px;
+    border-radius: 25px;
 }
 
 .bio a{
@@ -143,11 +144,6 @@ textarea{
     display:inline-block;
     padding: 0px;
     margin: 0px;
-}
-section h3{
-    color: #BFD7EA;
-    background-color: rgba(0, 0, 0, 0.493);
-    width: 20%;
 }
 
 .collection img{
