@@ -22,17 +22,19 @@ header{
     float: left;
     color: inherit;
     text-decoration: none;
+    letter-spacing: 10px;
 }
 
 #nav-menu{
     float: right;
     list-style-type: none;
     margin-right: 20px;
+    letter-spacing: 5px;
 }
 
 #nav-menu li{
     display: inline;
-    padding: 5px;
+    padding: 10px;
 }
 
 #nav-menu a{
