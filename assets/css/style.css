@@ -66,7 +66,7 @@ footer{
     bottom: 0;
     width: 100%;
     background-color: #3D3D3E;
-    height: 20px;
+    height: 10px;
 }
 .footer-bar h3{
     display: inline-block;
@@ -187,5 +187,3 @@ textarea{
     width: 33%;
     height: auto;
 }
-
-
