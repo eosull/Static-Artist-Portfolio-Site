@@ -73,16 +73,6 @@ footer{
     letter-spacing: 5px;
 }
 
-#copyright{
-    float:left;
-}
-
-#insta-logo a{
-    margin-left: 20px;
-    text-decoration: none;
-    color: inherit;
-}
-
 #home-content{
     position: relative;
     text-align: center;
@@ -112,6 +102,20 @@ footer{
 
 .bio a{
     color: inherit;
+}
+
+.bio #social-links a{
+    text-decoration: none;
+    color: inherit;
+    letter-spacing: 50px;
+}
+
+.bio #social-links i{
+    font-size: 200%;
+}
+
+.bio a:hover, .bio i:hover{
+    color: #6395bd;
 }
 
 /* contact form styling */
