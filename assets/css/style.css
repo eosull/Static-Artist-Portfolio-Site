@@ -161,12 +161,12 @@ textarea{
     clear: both;
     display:inline-block;
     padding: 0px;
-    margin: 0px;
+    margin-top: 40px;
 }
 
 .collection img{
     padding: 10px;
-    margin: 2px;
+    margin: 20px;
     background-color: rgba(255, 255, 255, 0.891);
 }
 
