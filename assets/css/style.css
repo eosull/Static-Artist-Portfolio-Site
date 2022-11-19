@@ -44,6 +44,17 @@ header{
     text-decoration: none;
 }
 
+#nav-menu a:hover{
+    background-color: #262a2ea4;
+    border-radius: 5px;
+}
+
+.active{
+    background-color: #67747ea4;
+    border-radius: 5px;
+    padding: 2px;
+}
+
 /* Footer styling */
 
 footer{
@@ -52,7 +63,7 @@ footer{
 
 .footer-bar{
     position: relative;
-    /* bottom: 0; */
+    bottom: 0;
     width: 100%;
     background-color: #3D3D3E;
     height: 20px;
@@ -115,8 +126,11 @@ footer{
 }
 
 #form-container #contact-desc{
-    color: rgb(79, 26, 26);
+    color: rgb(255, 255, 255);
     text-align: center;
+    background-color: #3d3d3eb9;
+    padding: 5px;
+    border-radius: 5px;
 }
 
 input[type=text],input[type=email], select, textarea{
