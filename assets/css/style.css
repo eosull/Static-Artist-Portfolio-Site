@@ -126,14 +126,15 @@ footer{
 #teaser{
     height:auto;
     width:100%;
-    background-color: green;
+    display:flex;
+    justify-content: space-between;
 }
 
 .teaser-image{
     display: inline-block;
-    margin-left: 10%;
-    width: 20%;
+    clear: both;
     background-color: white;
+    padding:150px;
 }
 
 /* contact form styling */
