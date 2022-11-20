@@ -127,10 +127,8 @@ footer{
     height:auto;
     width:100%;
     display:flex;
-    justify-content: space-between;
-    text-align:center;
-    line-height: inherit;
-    margin: auto;
+    justify-content: center;
+    align-items: center;
 }
 
 .teaser-image{
@@ -140,8 +138,14 @@ footer{
 }
 
 .teaser-image img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
     width: 75%;
     height: auto;
+    border-radius: 5px;
+    background-color: white;
+    padding: 5px;
 }
 
 /* contact form styling */
