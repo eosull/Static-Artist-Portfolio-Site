@@ -73,26 +73,23 @@ footer{
     letter-spacing: 5px;
 }
 
-#home-content{
-    position: relative;
-    text-align: center;
-    float: right;
+/* cover image styling */
+
+#cover-image{
+    height: 400px;
     width: 100%;
-    height: 85vh;
     overflow: hidden;
+    position: relative;
 }
 
-#home-content img{
-    float: right;
+#cover-image img{
+    width: 100%;
     height: auto;
-    width: 60%;
+
 }
 
 /* bio styling */
 .bio{
-    position: absolute;
-    top: 20%;
-    right: 50%;
     background-color: #141415cc;
     color: white;
     padding-left: 20px;
