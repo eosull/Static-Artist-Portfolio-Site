@@ -76,7 +76,6 @@ footer{
     width: 100%;
     overflow: hidden;
     position: relative;
-    border-radius: 10px;
 }
 
 #cover-image img{
@@ -89,9 +88,8 @@ footer{
 .bio{
     background-color: #141415cc;
     color: white;
-    padding-left: 20px;
-    padding-right: 20px;
-    border-radius: 25px;
+    padding:10px;
+    border-radius: 10px;
     text-align: center;
 }
 
@@ -144,7 +142,7 @@ footer{
     width: 75%;
     height: auto;
     border-radius: 5px;
-    background-color: white;
+    background-color: #BFD7EA;
     padding: 5px;
 }
 
