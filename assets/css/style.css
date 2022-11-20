@@ -121,6 +121,21 @@ footer{
     color: #6395bd;
 }
 
+/* teaser images styling */
+
+#teaser{
+    display: grid;
+    align-content: space-evenly;
+    height:500px;
+    width:100%;
+    background-color: green;
+}
+
+.teaser-image{
+    width: 20%;
+    background-color: white;
+}
+
 /* contact form styling */
 
 #form-container{
