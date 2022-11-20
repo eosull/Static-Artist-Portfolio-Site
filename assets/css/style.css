@@ -128,13 +128,20 @@ footer{
     width:100%;
     display:flex;
     justify-content: space-between;
+    text-align:center;
+    line-height: inherit;
+    margin: auto;
 }
 
 .teaser-image{
     display: inline-block;
     clear: both;
-    background-color: white;
-    padding:150px;
+    overflow: hidden;
+}
+
+.teaser-image img{
+    width: 75%;
+    height: auto;
 }
 
 /* contact form styling */
