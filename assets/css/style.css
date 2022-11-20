@@ -12,11 +12,7 @@ header{
     font-family: 'Karla', sans-serif;
     font-weight: 600;
     color: #BFD7EA;
-}
-
-.header-bar {
     background-color: #3D3D3E;
-    height: 60px;
 }
 
 #title{
@@ -96,6 +92,15 @@ footer{
     padding-left: 20px;
     padding-right: 20px;
     border-radius: 25px;
+    text-align: center;
+}
+
+.bio #bio-par1{
+    display:inline-block;
+    position:relative;
+    float:left;
+    width: 20%;
+    height: auto;
 }
 
 .bio a{
