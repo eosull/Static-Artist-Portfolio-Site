@@ -124,14 +124,14 @@ footer{
 /* teaser images styling */
 
 #teaser{
-    display: grid;
-    align-content: space-evenly;
-    height:500px;
+    height:auto;
     width:100%;
     background-color: green;
 }
 
 .teaser-image{
+    display: inline-block;
+    margin-left: 10%;
     width: 20%;
     background-color: white;
 }
