@@ -76,7 +76,7 @@ footer{
 /* cover image styling */
 
 #cover-image{
-    height: 400px;
+    height: 40vh;
     width: 100%;
     overflow: hidden;
     position: relative;
