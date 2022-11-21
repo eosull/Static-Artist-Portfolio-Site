@@ -233,6 +233,15 @@ textarea{
         line-height: 20px;
     }
 
+    .teaser{
+        display: block;
+    }
+
+    .teaser-image img{
+        width: 40%;
+        margin: auto;
+    }
+    
     #cover-image{
         height: 125px;
     }
