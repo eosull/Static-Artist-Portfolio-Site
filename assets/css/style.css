@@ -202,7 +202,6 @@ textarea{
 
 .collection{
     clear: both;
-    display:inline-block;
     padding: 0px;
     margin-top: 40px;
 }
@@ -210,19 +209,13 @@ textarea{
 .collection img{
     padding: 10px;
     margin: 20px;
+    width: 33%;
+    height: auto;
     background-color: rgba(255, 255, 255, 0.891);
 }
 
-.collection .col1{
-    float: left;
-    margin-left: 13%;
-    width: 33%;
-    height: auto;
-}
-
-.collection .col2{
-    float: right;
-    margin-right: 13%;
-    width: 33%;
-    height: auto;
+.collection .pic-row{
+    display:flex;
+    justify-content: center;
+    align-items: center;
 }
