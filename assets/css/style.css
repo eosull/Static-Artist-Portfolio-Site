@@ -86,12 +86,21 @@ footer{
 
 /* bio styling */
 .bio{
-    background-color: #141415cc;
+    background-color: #5E747F;
     color: white;
-    margin: 10px;
+    width: 30%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: auto;
+    margin-right: auto;
     padding:10px;
     border-radius: 10px;
     text-align: center;
+
+    font-weight: 500;
+    letter-spacing: 2px;
+    word-spacing: 7px;
+    line-height: 30px;
 }
 
 .bio a{
@@ -159,9 +168,12 @@ footer{
 #form-container #contact-desc{
     color: rgb(255, 255, 255);
     text-align: center;
-    background-color: #3d3d3eb9;
     padding: 5px;
     border-radius: 5px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    word-spacing: 7px;
+    line-height: 30px;
 }
 
 input[type=text],input[type=email], select, textarea{
