@@ -127,7 +127,7 @@ footer{
 
 /* teaser images styling */
 
-#teaser{
+.teaser{
     height:auto;
     width:100%;
     display:flex;
