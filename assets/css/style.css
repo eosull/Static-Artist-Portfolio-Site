@@ -147,8 +147,9 @@ footer{
 /* contact form styling */
 
 #form-container{
+    clear: both;
     position: relative;
-    max-width: 700px;
+    max-width: 30%;
     margin: auto;
     border-radius: 25px;
     padding: 50px;
