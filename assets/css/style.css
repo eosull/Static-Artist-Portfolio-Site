@@ -108,6 +108,10 @@ footer{
     font-size: 200%;
 }
 
+#bio-par3{
+    background-color: #3D3D3E; 
+}
+
 .bio a:hover, .bio i:hover{
     color: #6395bd;
 }
