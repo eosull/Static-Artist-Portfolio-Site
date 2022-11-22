@@ -9,9 +9,21 @@ This website is designed to provide information on an artist, examples of work a
   - The Navigation bar is a consistent feature across all three pages of the site, allowing easy movement between all of the content.
   - It contains the site title (which also links to the home page) as well as a menu allowing users to select the Home page, Gallery page or Contact page.
 <!-- Insert screenshot of Navigation bar in here -->
-- Landing Page
-  - The landing page is quite minimal with an image and a biography partly overlayed on the image greeting the visitor.
-    - An image on the landing page aims to give the visitor an impression of the kind of work they will see in the site.
-    - The biography provides information on the artist including where they are based, their field of work, education and internal/external links to examples of work.
-    - The bigraphy also points the visitor in the direction of the purpose of the site - visiting the gallery and using the contact form if so inclined.
+- Landing Page Image
+  - The Image that greets the site visitor is a snippet of a photograph that is contained in the gallery. Only a section of the image is shown to try and invite user to find out more.
 <!-- Insert screenshot of Landing Page in here -->
+- Biography Paragraph & Teaser Images
+  - The content on the homepage consists of paragraphs of information about the artist split up with teaser images.
+  - The bio paragraphs are intended to teach the visitor about the artist and their background. It also serves as an outline of the site purpose and what the visitor can expect.
+  - Teaser images are inserted with the goal of enticing the visitor to explore the gallery section, where they can see these (and more) images better.
+<!-- Insert screenshot of Home Page content here -->
+- Social Media & External Links
+  - The Bottom of the homepage contains links for Instagram and Bandcamp, where further work is hosted.
+<!-- Insert screenshot of social media & external links here -->
+- Gallery
+  - The gallery will show examples of visual work completed by the artist.
+  - It is arranged in two columns, giving each image space to breath and allow them to stand by themselves.
+<!-- Insert screenshot of gallery -->
+- Contact Page
+  - The contact page provides an opportunity for visitors to get in touch with the artist, allowing space for them to leave name, email address and a message
+<!-- Insert screenshot of contact page -->
