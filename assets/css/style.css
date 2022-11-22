@@ -222,7 +222,24 @@ textarea{
 
 /* Media queries */
 
-@media screen and (max-width: 900px){
+@media screen and (max-width: 920px){
+
+    #nav-menu{
+        letter-spacing: 1px;
+        margin: auto;
+        float:left;
+    }
+
+    #title{
+        background-color: #2a2a2b;
+        border-radius: 10px;
+    }
+
+    #nav-menu{
+        letter-spacing: 1px;
+        margin: auto;
+    }
+
     .bio{
         width: 65%;
         margin-top: 10px;
