@@ -262,4 +262,15 @@ textarea{
     #cover-image{
         height: 125px;
     }
+
+    .collection .pic-row{
+        display: block;
+        text-align: center;
+    }
+
+    .collection img{
+        width: 60%;
+        margin: 50px;
+        padding:3px;
+    }
 }
