@@ -224,10 +224,14 @@ textarea{
 
 @media screen and (max-width: 920px){
 
+    .header{
+        display:block;
+    }
+
     #nav-menu{
         letter-spacing: 1px;
         margin: auto;
-        float:left;
+        float: left;
     }
 
     #title{
@@ -236,6 +240,7 @@ textarea{
     }
 
     #nav-menu{
+        display: block;
         letter-spacing: 1px;
         margin: auto;
     }
@@ -272,5 +277,9 @@ textarea{
         width: 60%;
         margin: 50px;
         padding:3px;
+    }
+
+    #form-container{
+        max-width: 75%;
     }
 }
