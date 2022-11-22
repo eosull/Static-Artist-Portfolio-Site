@@ -231,12 +231,12 @@ textarea{
     }
 
     #title{
-        background-color: #2a2a2b;
-        border-radius: 10px;
+        float: none;
+        text-align: center;
     }
 
     #nav-menu{
-        display: block;
+        float:none;
         letter-spacing: 1px;
         margin: auto;
     }
