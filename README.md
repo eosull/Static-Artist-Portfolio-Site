@@ -27,3 +27,12 @@ This website is designed to provide information on an artist, examples of work a
 - Contact Page
   - The contact page provides an opportunity for visitors to get in touch with the artist, allowing space for them to leave name, email address and a message
 <!-- Insert screenshot of contact page -->
+
+### Features for future implementation
+- Modal Images
+  - Clicking on images to increase image size and create focus on one image
+  - Also an opportunity to add captions to images without cluttering up the gallery
+- Additional Pages
+  - In the continuing development of this site, extra pages may be added that display other work. These could include:
+    - Migrating Bio information to an 'About' page to reduce text on homepage
+    - Add a 'Music' page where embedded players from Bandcamp and Soundcloud can be used to show more work.
