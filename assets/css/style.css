@@ -320,7 +320,17 @@ textarea{
     }
 
     #form-container{
-        max-width: 75%;
+        max-width: 100%;
+        padding:15px;
+    }
+
+    #form-container #contact-desc{
+        width: 90%;
+    }
+
+    input[type=text],input[type=email], select, textarea{
+        width: 90%;
+        resize: vertical;
     }
 }
 
