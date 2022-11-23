@@ -177,6 +177,11 @@ input[type=text],input[type=email], select, textarea{
     resize: vertical;
 }
 
+#form-container label{
+    font-weight: 600;
+    color: #222223;
+}
+
 textarea{
     height: 100px;
 }
