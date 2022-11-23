@@ -278,7 +278,6 @@ textarea{
 
     #title h1{
         float: none;
-        text-align: center;
         font-size: medium;
     }
 
@@ -296,13 +295,18 @@ textarea{
         line-height: 20px;
     }
 
+    nav{
+        text-align: center;
+    }
+
     #nav-menu{
         float: none;
+        margin: auto;
+        padding:0;
     }
 
     #nav-menu a{
         font-size:small;
-        text-align: center;
         letter-spacing: 1px;
         margin: auto;
     }
@@ -361,8 +365,16 @@ textarea{
         text-align: center;
     }
 
+    nav{
+        text-align: center;
+    }
+
     #nav-menu{
         float:none;
+        padding:0;
+    }
+
+    #nav-menu a{
         letter-spacing: 1px;
         margin: auto;
     }
@@ -379,10 +391,11 @@ textarea{
 
     .teaser{
         display: block;
+        padding:0;
     }
 
     .teaser-image img{
-        width: 40%;
+        width: 75%;
         margin: auto;
     }
     
