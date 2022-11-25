@@ -347,6 +347,7 @@ textarea{
 
     #form-container #contact-desc{
         width: 90%;
+        word-spacing: 3px;
     }
 
     input[type=text],input[type=email], select, textarea{
