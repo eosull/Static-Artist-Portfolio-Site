@@ -58,7 +58,14 @@ This website is designed to provide information on an artist, examples of work a
   - Efficiently Encode cover image to decrease load time
   - Add alt text or name for social media links to improve accessibility
 - These opportunities were consistent across all pages, so once resolved........
-  
+
+### Issues Faced during development
+- Footer Position:
+  - The footer tended to rise up and sit under the content, whereas I wanted it to sit at the bottom of the page:
+ ![Footer Issue 1](/assets/readme_images/footer_position.png)
+  - A solution was found on [Stack Overflow](https://stackoverflow.com/questions/643879/css-to-make-html-page-footer-stay-at-bottom-of-the-page-with-a-minimum-height-b) and setting the body style class display to flex and and flex-direction to column fixed the issue.
+
+
 
 ### Validator Testing
 - HTML
