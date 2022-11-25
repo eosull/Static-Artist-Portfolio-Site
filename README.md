@@ -49,6 +49,6 @@ This website is designed to provide information on an artist, examples of work a
 - CSS
   - No errors were detected when passing the site through the official [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Feosull.github.io%2FProject-1-Portfolio%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
-## Deployment
+## Deployment
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
