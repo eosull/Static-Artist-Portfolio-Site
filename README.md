@@ -52,3 +52,14 @@ This website is designed to provide information on an artist, examples of work a
 ## Deployment
 
 - The site was deployed to GitHub pages. The steps to deploy are as follows:
+  - In the Github repository, navigate to the Settings tab
+  - From the source section drop-down menu, select the master branch
+  - Once the master branch has been selected, the page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment
+- A live link for the site can be found here: [https://eosull.github.io/Project-1-Portfolio/]
+
+## Credits
+- The images and text used in the site are the artists own
+- The icons used in the footer and on the home page were taken from [Font Awesome](https://fontawesome.com/)
+- HTML and CSS lessons from [W3Schools](https://www.w3schools.com/) were used as reference when designing the site, for example implementing flexbox in the gallery or styling contact form.
+- Code Institute materials were used to assist writing README file, such as the [README template](https://github.com/Code-Institute-Solutions/readme-template) and the [Markdown Cheatsheet](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- The Code Institute [Gitpod Full Template](https://github.com/Code-Institute-Org/gitpod-full-template) was used as a template to begin building this site
