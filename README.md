@@ -43,6 +43,9 @@ This website is designed to provide information on an artist, examples of work a
 
 ## Testing
 
+### Functionality Testing
+- Chrome Developer tools and Mozilla Firefox Web Developer Tools were used throughout the development of the site to test functionality, diagnose and solve issues with responsivness and assist with styling work.
+
 ### Validator Testing
 - HTML
   - No errors were detected when passing the site through the official [W3C Markup Validation Service](https://validator.w3.org/nu/?doc=https%3A%2F%2Feosull.github.io%2FProject-1-Portfolio%2F)
