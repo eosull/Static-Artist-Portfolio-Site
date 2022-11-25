@@ -335,8 +335,9 @@ textarea{
     }
 
     .collection img{
-        width: 60%;
-        margin: 50px;
+        width: 90%;
+        margin: 0;
+        margin-bottom: 20px;
         padding:3px;
     }
 
