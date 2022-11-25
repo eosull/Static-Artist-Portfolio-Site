@@ -48,11 +48,16 @@ This website is designed to provide information on an artist, examples of work a
 
 ### Lighthouse Testing
 ![Lighthouse Test 1](/assets/readme_images/lighthouse_report_1.png)
+
+![Lighthouse Test 1](/assets/readme_images/lighthouse_report1_ex2.png)
+
+![Lighthouse Test 1](/assets/readme_images/lighthouse_report1_ex1.png)
 - Testing using Lighthouse tool in Chrome Developer Tools provided a decent score but also suggested was to improve, Including:
   - Properly sizing images and serving them in a next-gen format to decrease load time for users
   - Move font awesome script from out of the body of the site as it is render-blocking
   - Efficiently Encode cover image to decrease load time
   - Add alt text or name for social media links to improve accessibility
+- These opportunities were consistent across all pages, so once resolved........
   
 
 ### Validator Testing
