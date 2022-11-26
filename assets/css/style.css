@@ -359,6 +359,9 @@ textarea{
         resize: vertical;
     }
 
+    #form-container #submit{
+        width: 30%;
+    }
 
 }
 
