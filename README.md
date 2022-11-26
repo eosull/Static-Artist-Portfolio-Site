@@ -27,6 +27,9 @@ This website is designed to provide information on an artist, examples of work a
 - Contact Page
   - The contact page provides an opportunity for visitors to get in touch with the artist, allowing space for them to leave name, email address and a message
 <!-- Insert screenshot of contact page -->
+- Form Submission Page
+  - This pages confirms with the visitor that their form has been submitted.
+  - It also lets them know they will get a response and gives them options to navigate back to the main site again.
 - 404 Error Page
   - The 404 error page is where the visitor is sent if an incorrect URL is entered.
   - It let's them know there's a mistake in the URL and then gives them options to navigate back to the site.
