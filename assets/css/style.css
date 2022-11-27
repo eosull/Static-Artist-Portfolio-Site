@@ -216,6 +216,7 @@ textarea{
 
 .collection img{
     padding: 10px;
+    border-radius: 5px;
     margin: 20px;
     width: 40%;
     height: auto;
