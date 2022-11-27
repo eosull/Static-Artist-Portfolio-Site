@@ -108,7 +108,8 @@ footer{
 .bio #social-links a{
     text-decoration: none;
     color: inherit;
-    letter-spacing: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
 }
 
 .bio #social-links i{
