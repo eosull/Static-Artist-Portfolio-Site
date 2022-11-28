@@ -60,6 +60,7 @@ This website is designed to provide information on an artist, examples of work a
   - Move font awesome script from out of the body of the site as it is render-blocking
   - Efficiently Encode cover image to decrease load time
   - Add alt text or name for social media links to improve accessibility
+  - Add meta text for SEO improvement
 - These opportunities were consistent across all pages, so once resolved........
 
 ### Issues Faced during development
