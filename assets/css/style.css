@@ -283,6 +283,10 @@ textarea{
 
     #title h1{
         float: none;
+        font-size: large;
+    }
+
+    .footer-bar h2{
         font-size: medium;
     }
 
@@ -298,6 +302,10 @@ textarea{
         letter-spacing: 1px;
         word-spacing: 7px;
         line-height: 20px;
+    }
+
+    .bio .social-links{
+        padding: 10px;
     }
 
     nav{
@@ -378,6 +386,14 @@ textarea{
     #title{
         float: none;
         text-align: center;
+    }
+
+    .footer-bar h2{
+        font-size: medium;
+    }
+
+    .bio .social-links{
+        padding: 20px;
     }
 
     nav{
