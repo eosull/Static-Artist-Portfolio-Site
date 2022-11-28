@@ -105,15 +105,22 @@ footer{
     color: inherit;
 }
 
-.bio #social-links a{
+.bio .social-links{
+    display:inline-block;
+}
+
+.bio .social-links a{
     text-decoration: none;
     color: inherit;
     margin-left: 50px;
     margin-right: 50px;
 }
 
-.bio #social-links i{
+.bio .social-links i{
     font-size: 200%;
+}
+.bio .social-links label{
+    color: #BFD7EA;
 }
 
 #bio-par3{
