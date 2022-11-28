@@ -49,6 +49,7 @@ This website is designed to provide information on an artist, examples of work a
 ### Functionality Testing
 - Chrome Developer tools and Mozilla Firefox Web Developer Tools were used throughout the development of the site to test functionality, diagnose and solve issues with responsivness and assist with styling work.
 
+
 ### Lighthouse Testing
 ![Lighthouse Test 1](/assets/readme_images/lighthouse_report_1.png)
 
@@ -61,7 +62,9 @@ This website is designed to provide information on an artist, examples of work a
   - Efficiently Encode cover image to decrease load time
   - Add alt text or name for social media links to improve accessibility
   - Add meta text for SEO improvement
-- These opportunities were consistent across all pages, so once resolved........
+- These issues were addressed and some of them resolved, increasing the accessibility and SEO of the site.
+![Lighthouse Test 2](/assets/readme_images/lighthouse_report_2.png)
+
 
 ### Issues Faced during development
 - Footer Position:
@@ -70,12 +73,14 @@ This website is designed to provide information on an artist, examples of work a
   - A solution was found on [Stack Overflow](https://stackoverflow.com/questions/643879/css-to-make-html-page-footer-stay-at-bottom-of-the-page-with-a-minimum-height-b) and setting the body style class display to flex and and flex-direction to column fixed the issue.
 
 
-
 ### Validator Testing
 - HTML
   - No errors were detected when passing the site through the official [W3C Markup Validation Service](https://validator.w3.org/nu/?doc=https%3A%2F%2Feosull.github.io%2FProject-1-Portfolio%2F)
 - CSS
   - No errors were detected when passing the site through the official [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Feosull.github.io%2FProject-1-Portfolio%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
+
+### Unfixed Bugs
+- Images causing performance and layout issues. 
 
 ## Deployment
 
