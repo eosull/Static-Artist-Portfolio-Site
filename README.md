@@ -64,6 +64,8 @@ This website is designed to provide information on an artist, examples of work a
   - Add alt text or name for social media links to improve accessibility
   - Add meta text for SEO improvement
 - These issues were addressed and some of them resolved, increasing the accessibility and SEO of the site.
+  - The issues with performance caused by image sizing loading couldn't be fixed and are explained in the Unfixed Bugs section.
+
 ![Lighthouse Test 2](/assets/readme_images/lighthouse_report_2.png)
 
 
@@ -97,3 +99,4 @@ This website is designed to provide information on an artist, examples of work a
 - HTML and CSS lessons from [W3Schools](https://www.w3schools.com/) were used as reference when designing the site, for example implementing flexbox in the gallery or styling contact form.
 - Code Institute materials were used to assist writing README file, such as the [README template](https://github.com/Code-Institute-Solutions/readme-template) and the [Markdown Cheatsheet](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - The Code Institute [Gitpod Full Template](https://github.com/Code-Institute-Org/gitpod-full-template) was used as a template to begin building this site
+- Site responsivness visualised using [Am I Responsive?](https://ui.dev/amiresponsive)
