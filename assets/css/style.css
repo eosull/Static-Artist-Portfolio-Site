@@ -447,6 +447,7 @@ textarea{
 
     #form-container{
         max-width: 75%;
+        padding: 25px;
     }
     .page-message{
         width: 90%;
