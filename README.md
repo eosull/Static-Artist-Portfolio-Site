@@ -87,6 +87,16 @@ This website is designed to provide information on an artist, examples of work a
 
 
 ### Issues Faced during development
+- Landing Page design:
+  - The landing page design originally had a taking up the right hand side of the screen, with the biography on the left. This can be seen in the initial wireframe design:
+
+![Landing page wireframe](/assets/readme_images/landing_page_wireframe.png)
+
+  - While this worked well on large screens, it was difficult to make responsive for smaller screens. As a result a vertically orientated design was created, increasing the ease of making the site responsive and hopefully enticing scrolling.
+
+- Extra Features:
+  - As can also be seen in the wireframe above, there were initially plans for a search function, a 'Sound' page and a 'Blog'. These were removed in order to focus on creating a fucntional site first.
+
 - Footer Position:
   - The footer tended to rise up and sit under the content, whereas I wanted it to sit at the bottom of the page:
  ![Footer Issue 1](/assets/readme_images/footer_position.png)
