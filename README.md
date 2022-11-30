@@ -1,7 +1,10 @@
-# Eoin O'Sullivan Artist Site
-This website is designed to provide information on an artist, examples of work and an opportunity to get in touch directly with the artist. The site is targeted towards commisioners and other artists who could potentially be collaborators, with the biography on the homepage giving background to the work that is displayed on the gallery page. There are opportunities for visitors to the site to get in touch with the artist through a contact form and links to other sites where the artist hosts work such as Instagram and Bandcamp.
+# Artist Website for Eoin O'Sullivan
 
 ![Am I responsive Screenshot](/assets/readme_images/am_i_responsive_screenshot.png)
+
+This website is designed to provide information on an artist, examples of work and an opportunity to get in touch directly with the artist. The site is targeted towards commisioners and other artists who could potentially be collaborators, with the biography on the homepage giving background to the work that is displayed on the gallery page. There are opportunities for visitors to the site to get in touch with the artist through a contact form and links to other sites where the artist hosts work such as Instagram and Bandcamp.
+
+
 
 ## Features
 
@@ -99,7 +102,9 @@ This website is designed to provide information on an artist, examples of work a
 
 - Footer Position:
   - The footer tended to rise up and sit under the content, whereas I wanted it to sit at the bottom of the page:
+
  ![Footer Issue 1](/assets/readme_images/footer_position.png)
+
   - A solution was found on [Stack Overflow](https://stackoverflow.com/questions/643879/css-to-make-html-page-footer-stay-at-bottom-of-the-page-with-a-minimum-height-b) and setting the body style class display to flex and and flex-direction to column fixed the issue.
 
 
