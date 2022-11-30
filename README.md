@@ -10,10 +10,14 @@ This website is designed to provide information on an artist, examples of work a
   - The Navigation bar is a consistent feature across all three pages of the site, allowing easy movement between all of the content.
   - It contains the site title (which also links to the home page) as well as a menu allowing users to select the Home page, Gallery page or Contact page.
   - The links are hover responsive to increase user feedback and also display which page is active to decrease chances of confusion.
+
 ![Navigation Bar](/assets/readme_images/header.png)
+
 - Landing Page Image
   - The Image that greets the site visitor is a snippet of a photograph that is contained in the gallery. Only a section of the image is shown to try and invite user to find out more.
+
 ![Landing Page Image](/assets/readme_images/cover_image.png)
+
 - Biography Paragraph & Teaser Images
   - The content on the homepage consists of paragraphs of information about the artist split up with teaser images.
   - The bio paragraphs are intended to teach the visitor about the artist and their background. It also serves as an outline of the site purpose and what the visitor can expect.
@@ -22,21 +26,32 @@ This website is designed to provide information on an artist, examples of work a
 - Social Media & External Links
   - The Bottom of the homepage contains links for Instagram and Bandcamp, where further work is hosted.
   - These include link descriptions to increase accessibility and hover responsivness to improve user feedback.
-![Social Media links](/assets/readme_images/social%20links.png)
+
+![Social Media links](/assets/readme_images/social_links.png)
+
 - Gallery
   - The gallery will show examples of visual work completed by the artist.
-  - It is arranged in two columns, giving each image space to breath and allow them to stand by themselves.
-<!-- Insert screenshot of gallery -->
-- Contact Page
-  - The contact page provides an opportunity for visitors to get in touch with the artist, allowing space for them to leave name, email address and a message
-<!-- Insert screenshot of contact page -->
+  - Equally sized images are placed in rows, while irregulary sized images are placed centrally in their own row.
+  - All images have some dark padding around the edges, intended to frame the images against the background.
+
+![Gallery](/assets/readme_images/gallery.png)
+
+- Contact form
+  - The contact form is on the 'contact' page and provides an opportunity for visitors to get in touch with the artist, allowing space for them to leave name, email address and a message.
+
+  ![Contact form](/assets/readme_images/contact_form.png)
+
 - Form Submission Page
   - This pages confirms with the visitor that their form has been submitted.
   - It also lets them know they will get a response and gives them options to navigate back to the main site again.
+
+![Form Submission](/assets/readme_images/form_submission.png)
+
 - 404 Error Page
   - The 404 error page is where the visitor is sent if an incorrect URL is entered.
   - It let's them know there's a mistake in the URL and then gives them options to navigate back to the site.
-<!-- Insert screenshot of 404 error page -->
+
+![404 Error Message](/assets/readme_images/404_message.png)
 
 ### Features for future implementation
 - Modal Images
