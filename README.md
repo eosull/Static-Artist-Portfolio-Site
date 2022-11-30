@@ -9,10 +9,11 @@ This website is designed to provide information on an artist, examples of work a
 - Navigation Bar
   - The Navigation bar is a consistent feature across all three pages of the site, allowing easy movement between all of the content.
   - It contains the site title (which also links to the home page) as well as a menu allowing users to select the Home page, Gallery page or Contact page.
-<!-- Insert screenshot of Navigation bar in here -->
+  - The links are hover responsive to increase user feedback and also display which page is active to decrease chances of confusion.
+![Navigation Bar](/assets/readme_images/header.png)
 - Landing Page Image
   - The Image that greets the site visitor is a snippet of a photograph that is contained in the gallery. Only a section of the image is shown to try and invite user to find out more.
-<!-- Insert screenshot of Landing Page in here -->
+![Landing Page Image](/assets/readme_images/cover_image.png)
 - Biography Paragraph & Teaser Images
   - The content on the homepage consists of paragraphs of information about the artist split up with teaser images.
   - The bio paragraphs are intended to teach the visitor about the artist and their background. It also serves as an outline of the site purpose and what the visitor can expect.
@@ -20,7 +21,8 @@ This website is designed to provide information on an artist, examples of work a
 <!-- Insert screenshot of Home Page content here -->
 - Social Media & External Links
   - The Bottom of the homepage contains links for Instagram and Bandcamp, where further work is hosted.
-<!-- Insert screenshot of social media & external links here -->
+  - These include link descriptions to increase accessibility and hover responsivness to improve user feedback.
+![Social Media links](/assets/readme_images/social%20links.png)
 - Gallery
   - The gallery will show examples of visual work completed by the artist.
   - It is arranged in two columns, giving each image space to breath and allow them to stand by themselves.
