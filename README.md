@@ -51,12 +51,14 @@ This control over the presentation of the material means this website's design w
 
 - Contact form
   - The contact form is on the 'contact' page and provides an opportunity for visitors to get in touch with the artist, allowing space for them to leave name, email address and a message.
+  - The form also contains required fields so the visitor cannot submit an empty form.
+  - The email input must contain a properly formatted email address.
 
   ![Contact form](/assets/readme_images/contact_form.png)
 
 - Form Submission Page
   - This pages confirms with the visitor that their form has been submitted.
-  - It also lets them know they will get a response and gives them options to navigate back to the main site again.
+  - It also lets them know they will get a response and they can navigate back using the nav bar in the header.
 
 ![Form Submission](/assets/readme_images/form_submission.png)
 
@@ -138,6 +140,7 @@ This control over the presentation of the material means this website's design w
 ## Credits
 - The images and text used in the site are the artists own except for
   - The 404 error message image, sourced from [Unsplash](https://unsplash.com/photos/sxiSod0tyYQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) user Erik McLean
+  - The form submission image, sourced from [Unsplash](https://unsplash.com/photos/ujg_yHzb6rc?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) user Abolfazl Ranjbar
 - The icons used in the footer and on the home page were taken from [Font Awesome](https://fontawesome.com/)
 - HTML and CSS lessons from [W3Schools](https://www.w3schools.com/) were used as reference when designing the site, for example implementing flexbox in the gallery or styling contact form.
 - Code Institute materials were used to assist writing README file, such as the [README template](https://github.com/Code-Institute-Solutions/readme-template) and the [Markdown Cheatsheet](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
