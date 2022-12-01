@@ -1,8 +1,16 @@
 # Artist Website for Eoin O'Sullivan
 
+## HTML/CSS Portfolio Project 1
+
 ![Am I responsive Screenshot](/assets/readme_images/am_i_responsive_screenshot.png)
 
-This website is designed to provide information on an artist, examples of work and an opportunity to get in touch directly with the artist. The site is targeted towards commisioners and other artists who could potentially be collaborators, with the biography on the homepage giving background to the work that is displayed on the gallery page. There are opportunities for visitors to the site to get in touch with the artist through a contact form and links to other sites where the artist hosts work such as Instagram and Bandcamp.
+## Site Info
+
+This website is designed as an artist portfolio. It provides clear information about an artist as well as examples of their work. There is also a contact page which can be used to get directly in touch with the artist. 
+
+The site is targeted towards commisioners and other artists who could potentially be collaborators. It is incredibly useful for artists to have an up to date website especially when applying for grants, commisions or residencies. Sites like instagram and Bandcamp can be used to host material and serve as a portfolio but designing a site like this you are not stuck to the predefined formats of those platforms.
+
+This control over the presentation of the material means this website's design will be seen as an extension of the artists work and so the focus is on minimal design and unintrusive colours. It is hoped visitors to the site will learn relevant information about the artist, explore some of their work and feel they can get in touch if they wish to do so.
 
 
 
