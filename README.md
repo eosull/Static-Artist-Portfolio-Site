@@ -62,7 +62,7 @@ This control over the presentation of the material means this website's design w
 
 - 404 Error Page
   - The 404 error page is where the visitor is sent if an incorrect URL is entered.
-  - It let's them know there's a mistake in the URL and then gives them options to navigate back to the site.
+  - It let's them know there's a mistake in the URL and they can navigate back using the nav bar in the header.
 
 ![404 Error Message](/assets/readme_images/404_message.png)
 
