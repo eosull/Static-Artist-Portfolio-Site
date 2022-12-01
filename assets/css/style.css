@@ -1,5 +1,8 @@
+
+/* Import fonts from Google Fonts */
 @import url('https://fonts.googleapis.com/css2?family=Karla:wght@200;600&display=swap');
 
+/* Body Styling */
 body{
     font-family: 'Karla', sans-serif;
     background-color: #3D3D3E;
@@ -10,7 +13,7 @@ body{
     flex-direction: column;
 }
 
-/* Header styling */
+/* Header general styling */
 header{
     font-family: 'Karla', sans-serif;
     font-weight: 600;
@@ -19,6 +22,7 @@ header{
     background-color: #3D3D3E;
 }
 
+/* Site title styling */
 #title{
     float: left;
     color: inherit;
@@ -26,6 +30,7 @@ header{
     letter-spacing: 10px;
 }
 
+/* Navigation menu styling */
 #nav-menu{
     float: right;
     list-style-type: none;
@@ -33,42 +38,46 @@ header{
     letter-spacing: 5px;
 }
 
+/* Navigation menu list styling */
 #nav-menu li{
     display: inline;
     padding: 10px;
 }
 
+/* Navigation menu links styling */
 #nav-menu a{
     color: inherit;
     font-size: 30px;
     text-decoration: none;
 }
 
+/* Navigation menu links interactivity styling */
 #nav-menu a:hover{
     background-color: #262a2ea4;
     border-radius: 5px;
 }
 
+/* Styling Navigation Links to show which one is active */
 .active{
     background-color: #67747ea4;
     border-radius: 5px;
     padding: 2px;
 }
 
-/* Footer styling */
 
+/* Footer styling */
 footer{
     color: #BFD7EA;
     text-align: center;
     min-height:40px;
 }
 
+/* Copyright information styling */
 .footer-bar h2{
     letter-spacing: 5px;
 }
 
-/* cover image styling */
-
+/* Cover image container styling */
 #cover-image{
     height: 250px;
     width: 100%;
@@ -76,13 +85,13 @@ footer{
     position: relative;
 }
 
+/* Container image styling */
 #cover-image img{
     width: 100%;
     height: auto;
-
 }
 
-/* bio styling */
+/* Bio container styling */
 .bio{
     background-color: #5E747F;
     color: white;
@@ -101,35 +110,40 @@ footer{
     line-height: 30px;
 }
 
+/* Bio links styling */
 .bio a{
     color: inherit;
 }
 
+/* Social Media links container styling */
 .bio .social-links{
     display:inline-block;
     text-align: center;
     padding: 40px;
 }
 
+/* Social Media links styling */
 .bio .social-links a{
     text-decoration: none;
     color: inherit;
 }
 
+/* Social Media icons styling */
 .bio .social-links i{
     font-size: 200%;
 }
 
+/* Removing background color from social media links */
 #bio-par3{
     background-color: #3D3D3E; 
 }
 
+/* Styling interactivity of social media links */
 .bio a:hover, .bio i:hover{
     color: #6395bd;
 }
 
-/* teaser images styling */
-
+/* Teaser images section styling */
 .teaser{
     height:auto;
     width:100%;
@@ -139,12 +153,14 @@ footer{
     padding: 10px;
 }
 
+/* Teaser images container styling */
 .teaser-image{
     display: inline-block;
     clear: both;
     overflow: hidden;
 }
 
+/* Teaser image styling */
 .teaser-image img{
     display: block;
     margin-left: auto;
@@ -156,8 +172,7 @@ footer{
     padding: 5px;
 }
 
-/* contact form styling */
-
+/* Contact form container styling */
 #form-container{
     clear: both;
     position: relative;
@@ -168,6 +183,7 @@ footer{
     background-color: #5E747F;
 }
 
+/* Contact form description styling */
 #form-container #contact-desc{
     color: rgb(255, 255, 255);
     text-align: center;
@@ -179,6 +195,7 @@ footer{
     line-height: 30px;
 }
 
+/* Contact form inputs styling */
 input[type=text],input[type=email], select, textarea{
     width: 100%;
     margin-top: 10px;
@@ -190,15 +207,23 @@ input[type=text],input[type=email], select, textarea{
     resize: vertical;
 }
 
+/* Contact form labels styling */
 #form-container label{
     font-weight: 600;
     color: #222223;
 }
 
+/* Contact form message area styling */
 textarea{
     height: 100px;
 }
 
+/* Submit button container styling */
+.submit-button{
+    text-align: center;
+}
+
+/* Comtact form submit button styling */
 #form-container #submit{
     background-color: #3D3D3E;
     color: #BFD7EA;
@@ -210,18 +235,14 @@ textarea{
     text-shadow: none;
 }
 
-.submit-button{
-    text-align: center;
-}
-
-/* gallery image styling */
-
+/* Gallery styling */
 .collection{
     clear: both;
     padding: 0px;
     margin-top: 40px;
 }
 
+/* Gallery image styling */
 .collection img{
     padding: 10px;
     border-radius: 5px;
@@ -231,38 +252,31 @@ textarea{
     background-color: #0000008b;
 }
 
+/* Gallery rows styling */
 .collection .pic-row{
     display:flex;
     justify-content: center;
     align-items: center;
 }
 
-/* 404 Error page & form submission styling */
-
+/* 404 Error page & form submission message styling */
 .page-message{
     background-color: #5E747F;
     color: white;
     width: 50%;
     clear:both;
-
     position: relative;
-    margin:auto;
-
-    /* margin-top: 10%;
-    margin-bottom: 10%;
-    margin-left: auto;
-    margin-right: auto; */
-    
+    margin:auto; 
     padding:10px;
     border-radius: 10px;
     text-align: center;
-
     font-weight: 500;
     letter-spacing: 2px;
     word-spacing: 6px;
     line-height: 30px;
 }
 
+/* 404 Error page & form submission pages image styling */
 .page-message img{
     width: 50%;
     height: auto;
@@ -273,7 +287,10 @@ textarea{
 
 /* Media queries */
 
+/* Responsivness for small screens */
 @media screen and (max-width: 450px) {
+
+    /* Centre Title */
     #title{
         float: none;
         text-align: center;
@@ -284,14 +301,17 @@ textarea{
         font-size: large;
     }
 
+    /* Decrease copyright text size */
     .footer-bar h2{
         font-size: medium;
     }
 
+    /* Decrease size of cover-image */
     #cover-image{
         height: 125px;
     }
 
+    /* Adjusting biography text size and position */
     .bio{
         width: 95%;
 
@@ -306,6 +326,7 @@ textarea{
         padding: 10px;
     }
 
+    /* Adjust position and size of navigation menu */
     nav{
         text-align: center;
     }
@@ -322,6 +343,7 @@ textarea{
         margin: auto;
     }
 
+    /* Increased size of teaser images and moved vertical */
     .teaser{
         display: block;
         padding: 0;
@@ -332,15 +354,13 @@ textarea{
         margin: auto;
     }
     
-    #cover-image{
-        height: 125px;
-    }
-
+    /* Centre images in gallery */
     .collection .pic-row{
         display: block;
         text-align: center;
     }
 
+    /* Increased image size and decrease distance between images */
     .collection img{
         width: 90%;
         margin: 0;
@@ -348,6 +368,7 @@ textarea{
         padding:3px;
     }
 
+    /* Increased size of contact form and input elements */
     #form-container{
         max-width: 100%;
         padding:15px;
@@ -367,6 +388,7 @@ textarea{
         width: 30%;
     }
 
+    /* Increased size of message */
     .page-message{
         width: 90%;
         line-height: 20px;
@@ -374,13 +396,27 @@ textarea{
 
 }
 
+/* Responsivness for small screens */
 @media screen and (min-width: 450px) and (max-width: 920px){
 
+    /* Decreased size and adjusted position of navigation menu */
     #nav-menu{
+        letter-spacing: 1px;
+        margin: auto;
+        float:none;
+        padding:0;
+    }
+
+    nav{
+        text-align: center;
+    }
+
+    #nav-menu a{
         letter-spacing: 1px;
         margin: auto;
     }
 
+    /* Adjust title size and position */
     #title{
         float: none;
         text-align: center;
@@ -390,24 +426,12 @@ textarea{
         font-size: medium;
     }
 
+    /* Decreased padding around social links */
     .bio .social-links{
         padding: 20px;
     }
 
-    nav{
-        text-align: center;
-    }
-
-    #nav-menu{
-        float:none;
-        padding:0;
-    }
-
-    #nav-menu a{
-        letter-spacing: 1px;
-        margin: auto;
-    }
-
+    /* Increased density of text in biography */
     .bio{
         width: 65%;
         margin-top: 10px;
@@ -418,6 +442,7 @@ textarea{
         line-height: 20px;
     }
 
+    /* Increased size of teaser images and moved vertical */
     .teaser{
         display: block;
         padding:0;
@@ -428,25 +453,31 @@ textarea{
         margin: auto;
     }
     
+    /* Descreased cover image size */
     #cover-image{
         height: 125px;
     }
 
+    /* Centre images in gallery */
     .collection .pic-row{
         display: block;
         text-align: center;
     }
 
+    /* Increase size of images in gallery and decrease space between */
     .collection img{
         width: 80%;
         margin: 50px;
         padding:3px;
     }
 
+    /* Increase size of contact form and reduce padding */
     #form-container{
         max-width: 75%;
         padding: 25px;
     }
+
+    /* Increased size of message */
     .page-message{
         width: 90%;
         line-height: 20px;
