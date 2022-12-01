@@ -24,8 +24,10 @@ This website is designed to provide information on an artist, examples of work a
 - Biography Paragraph & Teaser Images
   - The content on the homepage consists of paragraphs of information about the artist split up with teaser images.
   - The bio paragraphs are intended to teach the visitor about the artist and their background. It also serves as an outline of the site purpose and what the visitor can expect.
-  - Teaser images are inserted with the goal of enticing the visitor to explore the gallery section, where they can see these (and more) images better.
-<!-- Insert screenshot of Home Page content here -->
+  - Teaser images are inserted with the goal of enticing the visitor to explore the gallery section, where they can see these (and more) in more detail.
+
+![Home Page Content](/assets/readme_images/bio_and_teaser_images.png)
+
 - Social Media & External Links
   - The Bottom of the homepage contains links for Instagram and Bandcamp, where further work is hosted.
   - These include link descriptions to increase accessibility and hover responsivness to improve user feedback.
