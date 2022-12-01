@@ -84,7 +84,7 @@ This control over the presentation of the material means this website's design w
 
 
 ### Lighthouse Testing
-![Lighthouse Test 1](/assets/readme_images/lighthouse_report_1.png)
+![Lighthouse Test 1](/assets/readme_images/lighthouse_report1.png)
 
 ![Lighthouse Test 1](/assets/readme_images/lighthouse_report1_ex2.png)
 
@@ -98,7 +98,7 @@ This control over the presentation of the material means this website's design w
 - These issues were addressed and some of them resolved, increasing the accessibility and SEO of the site.
   - The issues with performance caused by image sizing loading couldn't be fixed and are explained in the Unfixed Bugs section.
 
-![Lighthouse Test 2](/assets/readme_images/lighthouse_report_2.png)
+![Lighthouse Test 2](/assets/readme_images/lighthouse_report2.png)
 
 
 ### Issues Faced during development
