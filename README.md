@@ -96,7 +96,7 @@ This control over the presentation of the material means this website's design w
   - Add alt text or name for social media links to improve accessibility
   - Add meta text for SEO improvement
 - These issues were addressed and some of them resolved, increasing the accessibility and SEO of the site.
-  - The issues with performance caused by image sizing loading couldn't be fixed and are explained in the Unfixed Bugs section.
+  - The issues with performance were caused by image sizing and were not fixed and are explained in the Unfixed Bugs section.
 
 ![Lighthouse Test 2](/assets/readme_images/lighthouse_report2.png)
 
@@ -127,7 +127,7 @@ This control over the presentation of the material means this website's design w
   - No errors were detected when passing the site through the official [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Feosull.github.io%2FProject-1-Portfolio%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en)
 
 ### Unfixed Bugs
-- Images causing performance and layout issues. 
+- As referenced in the testing section, the images were not given explicit width/height and this caused the performance to decrease. This was not resolved so not to risk images stretching or becoming pixellated. It is hoped the decreased performance is balanced out with large and hi resolution images.
 
 ## Deployment
 
