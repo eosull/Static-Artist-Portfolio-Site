@@ -32,7 +32,7 @@ This control over the presentation of the material means this website's design w
 - Biography Paragraph & Teaser Images
   - The content on the homepage consists of paragraphs of information about the artist split up with teaser images.
   - The bio paragraphs are intended to teach the visitor about the artist and their background. It also serves as an outline of the site purpose and what the visitor can expect.
-  - Teaser images are inserted with the goal of enticing the visitor to explore the gallery section, where they can see these (and more) in more detail.
+  - Teaser images are inserted with the goal of enticing the visitor to explore the gallery section, where they can see these in more detail.
 
 ![Home Page Content](/assets/readme_images/bio_and_teaser_images.png)
 
@@ -143,6 +143,7 @@ This control over the presentation of the material means this website's design w
   - The form submission image, sourced from [Unsplash](https://unsplash.com/photos/ujg_yHzb6rc?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) user Abolfazl Ranjbar
 - The icons used in the footer and on the home page were taken from [Font Awesome](https://fontawesome.com/)
 - HTML and CSS lessons from [W3Schools](https://www.w3schools.com/) were used as reference when designing the site, for example implementing flexbox in the gallery or styling contact form.
+- Threads on [Stack Overflow](https://stackoverflow.com/) that displayed community and collaborative problem solving were useful to read when faced with issues that needed to be resolved
 - Code Institute materials were used to assist writing README file, such as the [README template](https://github.com/Code-Institute-Solutions/readme-template) and the [Markdown Cheatsheet](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - The Code Institute [Gitpod Full Template](https://github.com/Code-Institute-Org/gitpod-full-template) was used as a template to begin building this site
 - Site responsivness visualised using [Am I Responsive?](https://ui.dev/amiresponsive)
