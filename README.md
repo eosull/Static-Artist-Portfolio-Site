@@ -136,7 +136,8 @@ This control over the presentation of the material means this website's design w
 - A live link for the site can be found here: [https://eosull.github.io/Project-1-Portfolio/]
 
 ## Credits
-- The images and text used in the site are the artists own
+- The images and text used in the site are the artists own except for
+  - The 404 error message image, sourced from [Unsplash](https://unsplash.com/photos/sxiSod0tyYQ?utm_source=unsplash&utm_medium=referral&utm_content=creditShareLink) user Erik McLean
 - The icons used in the footer and on the home page were taken from [Font Awesome](https://fontawesome.com/)
 - HTML and CSS lessons from [W3Schools](https://www.w3schools.com/) were used as reference when designing the site, for example implementing flexbox in the gallery or styling contact form.
 - Code Institute materials were used to assist writing README file, such as the [README template](https://github.com/Code-Institute-Solutions/readme-template) and the [Markdown Cheatsheet](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
